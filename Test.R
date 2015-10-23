@@ -1,0 +1,6 @@
+library(UsingR)
+data(cars)
+attach(cars)
+names(cars)
+boxplot(cars)
+summary(cars)
